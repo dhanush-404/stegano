@@ -1,0 +1,8 @@
+# Core image processing
+Pillow>=10.0.0
+
+# AES-256 encryption (optional but recommended)
+cryptography>=41.0.0
+
+# Drag-and-drop support for tkinter (optional)
+tkinterdnd2>=0.3.0
